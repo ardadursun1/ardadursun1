@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ardadursun1
-- 👀 I’m interested in javascript, c# and python
+- 👀 I’m interested in c#
 - 🌱 I’m currently learning javascript and c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
